@@ -1,24 +1,21 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B4E,100:5B2A9E&height=220&section=header&text=Priyanka%20Narang&fontSize=52&fontColor=E9D8FD&animation=fadeIn&fontAlignY=38&desc=AI%20%2B%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B4E,100:5B2A9E&height=220&section=header&text=Priyanka%20Narang&fontSize=52&fontColor=E9D8FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C3%97%20AI%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=B794F4&center=true&vCenter=true&width=680&lines=Building+production-grade+AI+systems;Designing+scalable+backend+services;RAG+pipelines+%2B+LLM+evaluation+%2B+CI+gating;Software+Engineering+%C3%97+AI+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=B794F4&center=true&vCenter=true&width=680&lines=Building+production-grade+AI+systems;Engineering+reliable+backend+services;RAG+pipelines+%2B+evaluation+%2B+CI+regression+gating;Software+Engineering+%C3%97+AI+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Academic & engineering badges -->
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-5B2A9E?style=for-the-badge&labelColor=0F0524" />
-<img src="https://img.shields.io/badge/GGSIPU-HMRITM-5B2A9E?style=for-the-badge&labelColor=0F0524" />
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML%20(3rd%20Year)-5B2A9E?style=for-the-badge&labelColor=0F0524" />
 <img src="https://img.shields.io/badge/Published-Springer%20LNCS-5B2A9E?style=for-the-badge&labelColor=0F0524" />
+<img src="https://img.shields.io/badge/Corresponding%20Author-Research-5B2A9E?style=for-the-badge&labelColor=0F0524" />
 <img src="https://img.shields.io/badge/Focus-LLM%20Infrastructure-5B2A9E?style=for-the-badge&labelColor=0F0524" />
 
 <br/><br/>
 
-<!-- Social buttons -->
 <a href="https://github.com/Priyanka-Narang1"><img src="https://img.shields.io/badge/GitHub-Priyanka--Narang1-5B2A9E?style=flat-square&logo=github&logoColor=E9D8FD&labelColor=0F0524" /></a>
 <a href="https://leetcode.com/u/CodingPRos/"><img src="https://img.shields.io/badge/LeetCode-CodingPRos-5B2A9E?style=flat-square&logo=leetcode&logoColor=E9D8FD&labelColor=0F0524" /></a>
 
@@ -28,82 +25,102 @@
 
 ## About
 
-I build production-grade AI systems and the backend infrastructure that keeps them reliable — retrieval pipelines, evaluation harnesses, and services designed to be observed, tested, and shipped, not just prototyped in a notebook.
+> Engineering reliable software — the kind of systems where retrieval quality, latency, cost, and correctness are measured, not assumed.
 
-My interest sits at the intersection of:
+I'm a third-year B.Tech student building production-grade AI systems and the backend infrastructure around them: retrieval pipelines, evaluation harnesses, and services designed to be observed, tested, and shipped — not just prototyped in a notebook.
 
-- Software Engineering & System Design
-- Backend & Distributed Systems
-- AI / LLM Infrastructure
-- Applied Machine Learning & NLP
+Currently exploring:
 
-I'm more interested in the engineering around a model — retrieval quality, latency, cost, regression gating, evaluation — than in training the model itself.
+- Distributed systems fundamentals
+- Backend engineering at scale
+- AI infrastructure & LLM serving
+- Scalable software architecture
 
-**Currently:** building out an observability and evaluation layer on top of a production RAG system, and deepening data structures & algorithms fundamentals through the Striver A2Z sheet.
+I care more about the engineering *around* a model — retrieval quality, regression gating, observability, cost — than about training the model itself.
+
+<br/>
+
+## Engineering Focus
+
+| Area | Focus |
+|---|---|
+| **Backend Engineering** | API design, service architecture, deployment reliability |
+| **AI Infrastructure** | Retrieval pipelines, vector search, hybrid ranking |
+| **LLM Engineering** | Prompt versioning, grounding, citation enforcement, evaluation |
+| **Production AI** | Shipping AI features that are tested and monitored, not demoed once |
+| **System Design** | Designing for correctness and maintainability first |
+| **Distributed Systems** *(learning)* | Building toward systems that scale beyond a single service |
 
 <br/>
 
 ## Tech Stack
 
-<div align="center">
-
 **Languages**
 <img src="https://skillicons.dev/icons?i=py,cpp,js,mysql&theme=dark" />
 
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" />
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
 **Backend**
 <img src="https://skillicons.dev/icons?i=fastapi,py&theme=dark" />
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-
-**Infra & Cloud**
+**Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws&theme=dark" />
 
-</div>
+<br/>
 
 | Category | Tools |
 |---|---|
 | Languages | Python, C++, JavaScript, SQL |
-| Core ML / NLP | XGBoost, scikit-learn, SBERT, spaCy, SHAP, TF-IDF |
-| RAG / LLM | LangChain, ChromaDB, hybrid (dense + BM25) retrieval, cross-encoder reranking, Groq-served LLMs, LLM-as-judge evaluation |
-| Backend | FastAPI, Docker, REST APIs |
-| Frontend | React, Next.js, Framer Motion, Tailwind CSS |
-| Cloud & Deployment | AWS, Hugging Face Spaces, Render, Vercel, Netlify |
-| CI/CD | GitHub Actions (eval-gated regression checks) |
+| Frontend | React, Next.js, HTML5, CSS3, Tailwind CSS |
+| Backend | FastAPI, REST APIs |
+| AI / Machine Learning | LangChain, Retrieval-Augmented Generation, scikit-learn, XGBoost, SHAP, TF-IDF |
+| LLM Engineering | Hybrid retrieval (dense + BM25), cross-encoder reranking, prompt versioning, LLM-as-judge evaluation, Groq API |
+| Databases | ChromaDB, SQL |
+| Cloud & Deployment | AWS, Docker, GitHub Actions, Hugging Face Spaces, Render, Netlify, Vercel |
+| Software Engineering | Data Structures & Algorithms, API design, system design, software architecture |
+
+<sub>Currently evaluating LLM observability tooling (Langfuse / LangSmith / BrainTrust) for an in-progress project — not yet a shipped part of the stack, so it's tracked under Featured Projects rather than listed above as a used tool.</sub>
 
 <br/>
 
 ## Featured Projects
 
-<details>
-<summary><b>RAG Research Studio</b> — production RAG system with CI-gated evaluation</summary>
+<details open>
+<summary><b>🔷 RAG Research Studio</b> — flagship project · production RAG system with CI-gated evaluation</summary>
 <br/>
 
 **Overview**
-A retrieval-augmented question-answering system over a corpus of RAG research papers, built to behave like a real service rather than a demo: versioned prompts, an eval suite, and CI that blocks regressions.
-
-**Stack**
-FastAPI + Docker (backend) · Next.js + Framer Motion (frontend) · ChromaDB + BM25 hybrid retrieval · cross-encoder reranking · Groq API (Llama 3.1 8B Instant)
+A retrieval-augmented question-answering system over a corpus of RAG research papers, engineered to behave like a real service: versioned prompts, an evaluation suite, and CI that blocks quality regressions before they ship.
 
 **Architecture**
-Hybrid dense + sparse retrieval feeds a reranking stage before generation. Prompts enforce strict grounding and citation, with abstention on peripheral matches. Backend and frontend are deployed separately and communicate over a versioned API.
+```mermaid
+flowchart LR
+    A[User Query] --> B[Hybrid Retrieval<br/>Dense + BM25]
+    B --> C[Cross-Encoder<br/>Reranking]
+    C --> D[Prompt v2.2<br/>Grounding + Citation Gate]
+    D --> E[Groq LLM<br/>Llama 3.1 8B]
+    E --> F[Response +<br/>Citations + Key Takeaways]
+```
 
-**Evaluation**
-60-question golden dataset scored with an LLM-as-judge across faithfulness, context precision, and answer relevancy. Current baselines: faithfulness 0.91, context precision 0.76.
+Backend (FastAPI + Docker, deployed on Hugging Face Spaces) and frontend (Next.js + Framer Motion, deployed on Netlify) run as independently deployed services communicating over a versioned API.
 
-**Key Engineering Decisions**
-- GitHub Actions CI gates merges on faithfulness (≥0.86) and context precision (≥0.71) — regressions fail the build, not just the demo
-- Prompt versions are tracked and rolled forward deliberately (current: v2.2 — stricter grounding, mandatory citation gate)
-- LLM provider chosen pragmatically around real constraints (regional API/billing limits), not by default preference
+**Key Features**
+- Hybrid dense + sparse retrieval, reranked before generation
+- Strict grounding and citation enforcement — abstains on peripheral matches
+- 60-question golden evaluation dataset scored via LLM-as-judge
 
-**Challenges**
-Retrieval occasionally favors a broad survey chunk over the more specific target paper on close-topic queries — an open tuning problem, not hidden.
+**Performance**
+Faithfulness: 0.91 · Context precision: 0.76 — both gated in CI (thresholds 0.86 / 0.71). A merge that drops below either threshold fails the build.
+
+**Engineering Challenges**
+Retrieval occasionally favors a broad survey chunk over the more specific target paper on close-topic queries — an open tuning problem being actively worked on, not hidden. LLM provider was chosen pragmatically around real regional billing/quota constraints, not by default preference.
 
 **Impact**
-Backend and frontend both live in production; now extending into a dedicated observability layer (tracing, latency/cost/citation-coverage metrics, automated regression gating) on top of the existing pipeline.
+Backend and frontend both live in production. Now being extended with a dedicated observability layer — tracing, latency/cost/citation-coverage metrics, and automated regression gating — on top of the existing pipeline.
+
+**Technology Stack**
+FastAPI · Docker · ChromaDB · BM25 · Groq API · Next.js · Framer Motion · GitHub Actions
 
 **Repository:** [github.com/Priyanka-Narang1/Rag-on-Rag-Papers](https://github.com/Priyanka-Narang1/Rag-on-Rag-Papers)
 **Live:** [rag-research-studio.netlify.app](https://rag-research-studio.netlify.app)
@@ -111,48 +128,70 @@ Backend and frontend both live in production; now extending into a dedicated obs
 </details>
 
 <details>
-<summary><b>Hybrid Fake Job Detection System</b> — NLP + gradient boosting classifier</summary>
+<summary><b>🔷 Semantic Resume Analyzer</b> — 7-stage hybrid NLP pipeline</summary>
 <br/>
 
 **Overview**
-A hybrid text-classification system to flag fraudulent job postings, combining classical NLP features with a gradient-boosted classifier.
+A full-stack NLP system that analyzes resumes through a 7-stage hybrid pipeline, combining classical NLP with explainable ML — and the basis of a published Springer LNCS paper.
 
-**Stack**
-XGBoost · TF-IDF · scikit-learn
+**Architecture**
+spaCy NER → SBERT embeddings → XGBoost scoring → SHAP explainability → TF-IDF features → logistic-regression section scorer → deterministic feedback layer.
 
-**Scale**
-Trained and evaluated on roughly 17,880 job posting records.
-
-**Performance**
-F1 score of 0.858 on the evaluation set.
+**Engineering Challenges**
+Deployment required pinning to Python 3.11, resolving spaCy/typer version conflicts, and switching to CPU-only PyTorch to fit within Render's free-tier memory limits.
 
 **Impact**
-Submitted to a peer-reviewed journal.
+Deployed full-stack — FastAPI backend on Render, React frontend on Vercel — and formed the basis of a peer-reviewed Springer LNCS publication.
+
+**Technology Stack**
+spaCy · SBERT · XGBoost · SHAP · TF-IDF · scikit-learn · FastAPI · React
+
+**Live:** [semantic-resume-analysis.vercel.app](https://semantic-resume-analysis.vercel.app)
 
 </details>
 
 <br/>
 
+## Engineering Philosophy
+
+> Correctness first. Then maintainability, scalability, and observability — in that order.
+
+- **Correctness** — an eval suite exists so "it works" is measured, not assumed
+- **Maintainability** — consolidating duplicated logic and drifted constants before adding features
+- **Observability** — instrumenting pipelines so failures are traceable, not guessed at
+- **Testing** — CI regression gates on quality metrics, not just green checkmarks
+- **Developer Experience** — versioned prompts and configs tracked alongside code
+
+<br/>
+
 ## Research
 
-**Springer LNCS Publication** — ICAMC-2026 (Paper ID 882), corresponding author.
-The paper is built on a semantic resume analysis system: a 7-stage hybrid NLP pipeline (spaCy NER, SBERT embeddings, XGBoost, SHAP for explainability, TF-IDF, a logistic-regression section scorer, and a deterministic feedback layer), deployed full-stack — FastAPI on Render, React on Vercel.
+**Published Research** — Springer LNCS, as **Corresponding Author**.
+The paper is built on the Semantic Resume Analyzer's 7-stage hybrid NLP pipeline.
 
-Awarded **Best Presenter** at the same venue as a 2nd-year undergraduate.
+**Best Presenter** — awarded at the same venue, as a 2nd-year undergraduate.
 
 <br/>
 
 ## Certifications
 
-- Career Essentials in Generative AI — Microsoft & LinkedIn Learning (2026)
-- AI Fundamentals — IBM SkillsBuild
+<div align="center">
+
+**Microsoft**
+<img src="https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Microsoft%20%26%20LinkedIn-5B2A9E?style=for-the-badge&logo=microsoft&logoColor=E9D8FD&labelColor=0F0524" />
+
+**IBM**
+<img src="https://img.shields.io/badge/AI%20Fundamentals-IBM%20SkillsBuild-5B2A9E?style=for-the-badge&logo=ibm&logoColor=E9D8FD&labelColor=0F0524" />
+
+</div>
 
 <br/>
 
 ## Coding Profiles
 
 <div align="center">
-<a href="https://leetcode.com/u/CodingPRos/"><img src="https://img.shields.io/badge/LeetCode-Profile-5B2A9E?style=for-the-badge&logo=leetcode&logoColor=E9D8FD&labelColor=0F0524" /></a>
+<a href="https://github.com/Priyanka-Narang1"><img src="https://img.shields.io/badge/GitHub-Priyanka--Narang1-5B2A9E?style=for-the-badge&logo=github&logoColor=E9D8FD&labelColor=0F0524" /></a>
+<a href="https://leetcode.com/u/CodingPRos/"><img src="https://img.shields.io/badge/LeetCode-CodingPRos-5B2A9E?style=for-the-badge&logo=leetcode&logoColor=E9D8FD&labelColor=0F0524" /></a>
 </div>
 
 <br/>
@@ -174,7 +213,6 @@ Awarded **Best Presenter** at the same venue as a 2nd-year undergraduate.
 
 <br/>
 
-<!-- Contribution snake -- requires a repo action to generate github-contribution-grid-snake.svg -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/Priyanka-Narang1/Priyanka-Narang1/output/github-contribution-grid-snake.svg" width="90%" />
 </div>
@@ -185,22 +223,27 @@ Awarded **Best Presenter** at the same venue as a 2nd-year undergraduate.
 
 ```yaml
 learning:
-  - Distributed systems fundamentals
-  - LLM serving & inference optimization
+  - Distributed systems
+  - High-performance backends
+  - LLM infrastructure
   - System design
 
 building:
-  - RAG evaluation & observability tooling
-  - Production-ready backend services
+  - Production-grade AI applications
+  - Scalable backend services
+  - Developer tools
 
 exploring:
-  - Agentic and multi-agent architectures
   - AI infrastructure
+  - Multi-agent systems
+  - Distributed computing
+  - Developer experience
 
 open_to:
-  - AI Engineering internships
   - Software Engineering internships
-  - Backend engineering roles
+  - AI Engineering internships
+  - Backend engineering
+  - Open source collaboration
 ```
 
 <br/>
@@ -208,7 +251,12 @@ open_to:
 ## Contact
 
 <div align="center">
-<a href="https://github.com/Priyanka-Narang1"><img src="https://img.shields.io/badge/GitHub-Priyanka--Narang1-5B2A9E?style=for-the-badge&logo=github&logoColor=E9D8FD&labelColor=0F0524" /></a>
+
+<a href="https://github.com/Priyanka-Narang1"><img src="https://img.shields.io/badge/GitHub-5B2A9E?style=for-the-badge&logo=github&logoColor=E9D8FD&labelColor=0F0524" /></a>
+<a href="https://www.linkedin.com/in/priyanka-narang1/"><img src="https://img.shields.io/badge/LinkedIn-5B2A9E?style=for-the-badge&logo=linkedin&logoColor=E9D8FD&labelColor=0F0524" /></a>
+<a href="mailto:narangpriyanka16@gmail.com"><img src="https://img.shields.io/badge/Email-5B2A9E?style=for-the-badge&logo=gmail&logoColor=E9D8FD&labelColor=0F0524" /></a>
+<a href="https://leetcode.com/u/CodingPRos/"><img src="https://img.shields.io/badge/LeetCode-5B2A9E?style=for-the-badge&logo=leetcode&logoColor=E9D8FD&labelColor=0F0524" /></a>
+
 </div>
 
 <br/>
@@ -216,4 +264,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2A9E,100:0F0524&height=100&section=footer" width="100%"/>
 
 </div>
-
